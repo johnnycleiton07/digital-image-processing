@@ -1,4 +1,4 @@
-# Processamento Digital de Imagens
+# image_processing
 
-Algumas apresentações em código do período em que fui monitor da disciplina.
+teaching myself some algorithms
   
